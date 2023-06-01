@@ -1,8 +1,19 @@
-😜EAI, qual é a boa? me chamo iann, prazer!
-🤣Apenas testando projetos no tempo livre ou trabalhos sérios!!
-👌*No caminho da programação!*
+Oh!! Hey Dev, whats up? ✌
+Its a pleasure, im called Iann, but you can call me by my nickname: iannoliver!!! 😃
 
-✔ - "Viva com orgulho. Se sua fraqueza o dominar, aqueça seu coração, cerre os dentes e siga em frente. Mesmo que sua covardia o retarde, não impedirá a passagem do tempo. Envelhecer e morrer é o que dá sentido e beleza ao tempo fugaz de uma vida humana. É exatamente porque envelhecemos e morremos que nossas vidas têm valor e nobreza."
+
+- 🤠Sou estudante na faculdade FMU no curso de ADS (análise e desenvolvimento de sistemas)
+- 🐱‍👓Também faço cursos online, além do curso de Técnico em Informática pelo Senac
+- 🐱‍🏍Estou aprendendo atualmente Javascript, Java, PHP e MySQL mas quero aprender e me elevar muito mais...
+- 😎Tenho conhecimentos avançados em HTML, CSS, Banco de Dados SQL, MySQL e Oracle, Java, Javascript, C++ e um pouco de C
+- 👾Conhecimentos em Infraestrutura, Redes e Servidores
+- 🌎Moro atualmente em São Paulo
+
+
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
 
 
 
