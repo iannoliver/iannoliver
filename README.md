@@ -4,7 +4,6 @@ Its a pleasure, im called Iann, but you can call me by my nickname: iannoliver!!
 
 - 🤠Sou estudante na faculdade FMU no curso de ADS (análise e desenvolvimento de sistemas)
 - 🐱‍👓Também faço cursos online, além do curso de Técnico em Informática pelo Senac
-- 😎Tenho conhecimentos avançados em HTML, CSS, Banco de Dados SQL, MySQL e Oracle, Java, Javascript, C++ e um pouco de C
 - 👾Conhecimentos em Infraestrutura, Redes e Servidores
 - 🌎Moro atualmente em São Paulo
 
