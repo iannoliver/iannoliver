@@ -24,14 +24,5 @@ Its a pleasure, im called Iann, but you can call me by my nickname: iannoliver!!
   <img align="center" alt="Iann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
           
-          
-          
-          
-          
-          
-
-
-
-
-![ ](https://github.com/iannoliver/iannoliver/blob/main/steamuserimages-a.akamaihd.net.gif)   ![ ](https://github.com/iannoliver/iannoliver/blob/main/ora-jojo.gif)
+        
 
