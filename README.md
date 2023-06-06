@@ -24,6 +24,15 @@ Its a pleasure, im called Iann, but you can call me by my nickname: iannoliver!!
   <img align="center" alt="Iann-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
  </div>
+  
+   ##
+ 
+<div align="center">
+  <h1>Redes Sociais: </h1>
+  <a href="https://www.instagram.com/oli_iann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:iannoliveira03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iann-oliveira-3106b11a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
           
         
 
