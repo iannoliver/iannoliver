@@ -1,11 +1,11 @@
-Oh!! Hey Dev, whats up? ✌
+Oh!! Hey Dev, whats up? ✌ <br>
 Its a pleasure, im called Iann, but you can call me by my nickname: iannoliver!!! 😃
 
 
-- 🤠Sou estudante na faculdade FMU no curso de ADS (análise e desenvolvimento de sistemas)
-- 🐱‍👓Também faço cursos online, além do curso de Técnico em Informática pelo Senac
-- 👾Conhecimentos em Infraestrutura, Redes e Servidores
-- 🌎Moro atualmente em São Paulo
+- Formado em ADS (análise e desenvolvimento de sistemas) e Técnico de Informática
+- Sempre cursando online em minhas especializações, e sempre lançando algum projetinho por aqui
+- Conhecimentos em Infraestrutura, Redes e Servidores
+- Conhecimentos de Engenharia e Linguagens de Programação
 
 <div align="center">
   <a href="https://github.com/iannoliver">
